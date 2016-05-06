@@ -1,0 +1,10 @@
+
+.form-group {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.form-group .form-control input[type=text].error {
+	color: red;
+	font-weight: 5em;
+}
